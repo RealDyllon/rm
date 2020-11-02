@@ -3,6 +3,7 @@
 **R**e**m**oves a given file or folder in a cross-platform way.
 
 Created by Jesse Talavera-Greenberg.
+Forked by Dyllon Gunawardhana
 
 # Installation
 
@@ -14,7 +15,7 @@ Use this action in any particular step like so:
 
 ```yaml
 - name: Remove File
-  uses: JesseTG/rm@v1.0.2
+  uses: RealDyllon/rm@v1.0.2
   with:
     path: /path/to/something/you/want/to/delete
 

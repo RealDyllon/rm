@@ -2,7 +2,7 @@
 
 **R**e**m**oves a given file or folder in a cross-platform way.
 
-Created by Jesse Talavera-Greenberg.
+Created by Jesse Talavera-Greenberg.  
 Forked by Dyllon Gunawardhana
 
 # Installation
